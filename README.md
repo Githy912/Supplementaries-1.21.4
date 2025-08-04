@@ -4,6 +4,8 @@ Supplementaries is a highly configurable Forge mod focused on adding valuable co
 
 Before reporting any issues be sure to check out the wiki!
 
+This mod has been modified for 1.21.4!!!! THANKS TO MEHVAHDJUKAAR!!!!
+
 
 ## Cloning this repo?
 
